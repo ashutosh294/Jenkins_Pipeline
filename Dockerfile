@@ -1,6 +1,6 @@
 FROM nginx:alpine
 #made by
-MAINTAINER Ankush Mandal
+MAINTAINER Ashutosh
 
 #to run or executes
 RUN echo "THIS IS DOCKERFILE."
